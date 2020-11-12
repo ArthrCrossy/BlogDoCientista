@@ -1,0 +1,34 @@
+main > div > div > .primeiro-texto > p {
+  text-align: justify;
+}
+
+.foto{
+  text-align: center;
+}
+.descricao-cc > p{
+  text-align: justify;
+}
+
+.primeiro-texto-direito{
+  text-align: right;
+}
+
+.footer > p{
+  text-align: center;
+};
+
+.sobre-min > p{
+  text-align: center;
+}
+
+main{
+  font-family: Open Sans;
+}
+
+#titulo-blog{
+  text-align: center;
+  font-family: Open Sans;
+};
+
+
+
